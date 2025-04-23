@@ -1,5 +1,5 @@
 Тестовое задание на вакансию «Web-разработчик (стажёр)»
-Ссылка на работу: https://polpotcamp.github.io/SnipetNews/
+Ссылка на работу: https://polpotcamp.github.io/SnippetNews/
 Запустить у себя: 
 1 Написать в консоли npm i
 2 Написать в консоли npm run dev
